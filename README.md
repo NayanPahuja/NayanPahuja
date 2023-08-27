@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanpahuja&label=Profile%20views&color=0e75b6&style=flat" alt="nayanpahuja" /> </p>
 
-- 🔭 I’m currently working on [LeetCode Clone](https://github.com/NayanPahuja/LeetCodeClone)
+- 🔭 I’m currently working on [Twitter Clone](https://github.com/NayanPahuja/TwitterClone)
 
-- 🌱 I’m currently learning **React, Typescript, Express and Docker**
+- 🌱 I’m currently learning **Flutter, Dart, Supabase and Docker**
 
 - 👯 I’m looking to collaborate on **Android, Web, Game Dev, Anything!**
 
-- 🤝 I’m looking for help with **docker**
+- 🤝 I’m looking for help with **Docker and Flutter**
 
 - 📝 I regularly write articles on [https://dev.to/pahujanayan](https://dev.to/pahujanayan)
 
@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[CAP THEOREM](https://pahujanayan.hashnode.dev/cap-theorem-consistency-availability-and-partition-tolerance)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
