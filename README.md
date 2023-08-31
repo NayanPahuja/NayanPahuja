@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Kadane's Algorithm](https://pahujanayan.hashnode.dev/day-89-kadanes-algorithm)
 [CAP THEOREM](https://pahujanayan.hashnode.dev/cap-theorem-consistency-availability-and-partition-tolerance)
 <!-- BLOG-POST-LIST:END -->
 
