@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanpahuja&label=Profile%20views&color=0e75b6&style=flat" alt="nayanpahuja" /> </p>
 
-- 🔭 I’m currently working on [Twitter Clone](https://github.com/NayanPahuja/TwitterClone)
+- 🔭 I’m currently working on My DSA skills
 
 - 🌱 I’m currently learning **Flutter, Dart, Supabase and Docker**
 
@@ -24,7 +24,8 @@
 - [Kadane's Algorithm](https://pahujanayan.hashnode.dev/day-89-kadanes-algorithm)
 
 - [CAP THEOREM](https://pahujanayan.hashnode.dev/cap-theorem-consistency-availability-and-partition-tolerance)
-- [Version Control Systems & Git](https://dev.to/pahujanayan/version-control-systems-4lm)
+
+- [Version Control Systems & Git](https://pahujanayan.hashnode.dev/version-control-systems-git-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
