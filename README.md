@@ -24,6 +24,7 @@
 - [Kadane's Algorithm](https://pahujanayan.hashnode.dev/day-89-kadanes-algorithm)
 
 - [CAP THEOREM](https://pahujanayan.hashnode.dev/cap-theorem-consistency-availability-and-partition-tolerance)
+- [Version Control Systems & Git](https://dev.to/pahujanayan/version-control-systems-4lm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
