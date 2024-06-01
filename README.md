@@ -5,19 +5,18 @@
 
 - 🔭 I’m currently working on My DSA skills
 
-- 🌱 I’m currently learning **Flutter, Dart, Supabase and Docker**
+- 🌱 I’m currently learning **DL, CCN**
 
 - 👯 I’m looking to collaborate on **Android, Web, Game Dev, Anything!**
 
-- 🤝 I’m looking for help with **Docker and Flutter**
+- 🤝 I’m looking for help with **K8S**
 
-- 📝 I regularly write articles on [https://dev.to/pahujanayan](https://dev.to/pahujanayan)
+- 📝 I occasionally write articles on [https://dev.to/pahujanayan](https://dev.to/pahujanayan)
 
 - 💬 Ask me about **Android Development and more**
 
 - 📫 How to reach me **nayanpahuja25@gmail.com**
 
-- ⚡ Fun fact **I think I am good at this**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
